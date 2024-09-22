@@ -1,0 +1,25 @@
+# Ignore build directory
+/build/
+ 
+# Ignore dist directory
+/dist/
+ 
+# Ignore egg-info directory
+/ohms_law_pk.egg-info/
+ 
+# Python cache files
+__pycache__/
+*.py[cod]
+ 
+# Virtual environment
+venv/
+env/
+.env
+ 
+# IDE specific files
+.vscode/
+.idea/
+ 
+# OS generated files
+.DS_Store
+Thumbs.db
